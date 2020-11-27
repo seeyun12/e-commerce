@@ -54,7 +54,7 @@
 }
 .banner-img {
     border: 2px solid;
-    background-image: url(img/Trad.png);
+    background-image: url(img/trad.png);
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
